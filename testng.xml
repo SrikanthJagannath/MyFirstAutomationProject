@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestApp">
+  <test name="SmokeTest">
+    <classes>
+      <class name="testcases.logintest"/>
+      <class name="testcases.logouttestcase"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- MyTestApp -->
